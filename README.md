@@ -1,13 +1,13 @@
-## Mnist-on-EvaDB-and-DeepLake
+# Mnist-on-EvaDB-and-DeepLake
 
-# Install Requirements
+## Install Requirements
 ```
 pip3 install -r requirements.txt
 ```
-# Run EvaDB mnist
+## Run EvaDB mnist
 ```
 ```
 
-# Run DeepLake mnist
+## Run DeepLake mnist
 ```
 ```
