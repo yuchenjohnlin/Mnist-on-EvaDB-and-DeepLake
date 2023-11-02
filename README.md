@@ -1,2 +1,13 @@
 # Mnist-on-EvaDB-and-DeepLake
-Only google colab files in here because I could not set up EvaDB on local environment
+
+#Install Requirements
+```
+pip3 install -r requirements.txt
+```
+#Run EvaDB mnist
+```
+```
+
+#Run DeepLake mnist
+```
+```
