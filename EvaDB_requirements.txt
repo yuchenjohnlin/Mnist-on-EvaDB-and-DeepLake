@@ -1,0 +1,4 @@
+evadb[vision,notebook]
+opendatasets
+opencv-python
+urllib3==1.26.7
