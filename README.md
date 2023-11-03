@@ -2,7 +2,7 @@
 
 ## Install Requirements
 ```
-pip3 install -r EvaDB_requirements.txt
+pip install -r EvaDB_requirements.txt
 ```
 ## Run EvaDB mnist
 ```
@@ -18,7 +18,7 @@ The code will run for a while ...
 
 ## Run DeepLake mnist
 ```
-pip3 install -r DeepLake_requirements.txt
+pip install -r DeepLake_requirements.txt
 ```
 ## Run EvaDB mnist
 ```
