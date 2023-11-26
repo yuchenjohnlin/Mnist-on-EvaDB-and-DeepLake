@@ -1,0 +1,5 @@
+Using testSample from mnistjpg
+Load 350 imagesLoad Image : 7.475312232971191 s
+SELECT data, MnistImageClassifier(data).label  FROM MNIST_image  WHERE MnistImageClassifier(data).label = '6'
+Query 36 images
+Query : 7.248713970184326 s

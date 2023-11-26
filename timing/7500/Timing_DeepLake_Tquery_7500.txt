@@ -1,0 +1,6 @@
+Using testSet from mnistjpg
+Load 7500 imagesLoad Image : 8.19063115119934 s
+Load Label : 6.7522969245910645 s
+Execute qeury : SELECT * WHERE labels = 6
+Query 751 imagesFilter : 0.6458568572998047 s
+Query : 7.398871898651123 s

@@ -1,0 +1,5 @@
+Using trainingSet from mnistjpg
+Load 42000 imagesLoad Image : 33.34941577911377 s
+Execute qeury : SELECT * WHERE labels = 6
+Query 4141 images
+Query : 19.83218789100647 s

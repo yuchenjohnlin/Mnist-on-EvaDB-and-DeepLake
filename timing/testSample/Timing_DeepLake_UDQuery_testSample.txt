@@ -1,0 +1,4 @@
+Using testSample from mnistjpg
+Load 350 imagesLoad Image : 0.2751312255859375 s
+Execute qeury : SELECT * WHERE labels = 6
+Query 36 imagesQuery : 0.1729719638824463 s
